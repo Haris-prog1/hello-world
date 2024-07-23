@@ -1,0 +1,14 @@
+body{
+    background-color: aliceblue;
+}
+
+.delBtn{
+    display: inline;
+
+}
+.todoCard{
+    display: inline-block;
+}
+.delBtn{
+    display: flex;
+} 
